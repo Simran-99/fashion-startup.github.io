@@ -1,0 +1,33 @@
+body,
+html{
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.3),#000),url(fashion.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    font-size: 3rem;
+   text-transform: uppercase;
+     color:#ff7675 !important;
+}
+.btn-big{
+    padding: 1rem 2rem;
+    text-transform: uppercase;
+    color:#ff7675 !important;
+    border-radius:200px;
+    font-weight: 700;
+    }
+.btn-big:hover{
+    color:#6c757d !important;
+    background-color:#ff7675 !important;
+   
+    
+}
+.container{
+    height:100%;
+}
+.buffer{
+    height: 50px !important;
+}
